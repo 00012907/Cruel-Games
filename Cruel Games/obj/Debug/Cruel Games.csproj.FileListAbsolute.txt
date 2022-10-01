@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\bin\Debug\Cruel Games.exe.config
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\bin\Debug\Cruel Games.exe
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\bin\Debug\Cruel Games.pdb
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\obj\Debug\Cruel Games.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\obj\Debug\Cruel_Games.Form1.resources
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\obj\Debug\Cruel_Games.Properties.Resources.resources
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\obj\Debug\Cruel Games.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\obj\Debug\Cruel Games.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\obj\Debug\Cruel Games.exe
+C:\Users\acer\source\repos\Cruel Games\Cruel Games\obj\Debug\Cruel Games.pdb
